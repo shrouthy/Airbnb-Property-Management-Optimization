@@ -23,7 +23,3 @@ Tableau – Developed interactive dashboards to visualize booking trends, pricin
 1. Promote high-rated, budget listings in seasonal campaigns.
 2. Focus on quality factors over luxury to raise review scores.
 3. Use booking trends to prevent oversupply in low-demand periods.
-
-**📌P.S.:**  
-The Tableau dashboard is divided into two separate files for clarity and performance (**Airbnb-01.twb** and **Airbnb-02.twb**)  
-Please make sure to view both files to explore the full scope of analysis and insights.
